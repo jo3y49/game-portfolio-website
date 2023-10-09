@@ -1,5 +1,7 @@
 +++
 title = "The Quest For Power"
+weight = 1
+featuredimage = "Quest For Power.png"
 +++
 
 <details>

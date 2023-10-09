@@ -1,5 +1,6 @@
 +++
 title = "CraftMine Parkour"
+weight = 3
 +++
 
 <details>

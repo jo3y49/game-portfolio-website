@@ -3,6 +3,7 @@ defaultContentLanguage = "en-us"
 languageCode = "en-us"
 title = "Joseph May"
 theme = "FeelIt"
+canonifyURLs = true
 
 [params]
     version = "1.0.X"
@@ -113,36 +114,36 @@ theme = "FeelIt"
         rss = 10
         # Home page profile
         [params.home.profile]
-        enable = true
-        # Gravatar Email for preferred avatar in home page
-        gravatarEmail = ""
-        # URL of avatar shown in home page
-        #avatarURL = "/images/avatar.png"
-        # title shown in home page (HTML format is supported)
-        title = "Joey's Portfolio"
-        # subtitle shown in home page
-        subtitle = "My Portfolio"
-        # whether to use typeit animation for subtitle
-        typeit = false
-        # whether to show social links
-        social = true
-        # disclaimer (HTML format is supported)
-        disclaimer = ""
-        # Home page posts
+            enable = true
+            # Gravatar Email for preferred avatar in home page
+            gravatarEmail = ""
+            # URL of avatar shown in home page
+            #avatarURL = "/images/avatar.png"
+            # title shown in home page (HTML format is supported)
+            title = "Joey's Portfolio"
+            # subtitle shown in home page
+            subtitle = "My Portfolio"
+            # whether to use typeit animation for subtitle
+            typeit = false
+            # whether to show social links
+            social = true
+            # disclaimer (HTML format is supported)
+            disclaimer = ""
+            # Home page posts
         [params.home.posts]
-        enable = true
-        # special amount of posts in each home posts page
-        paginate = 6
-        # display image-preview
-        imagePreview = true
-        # default behavior when you don't set "hiddenFromHomePage" in front matter
-        defaultHiddenFromHomePage = false
+            enable = true
+            # special amount of posts in each home posts page
+            paginate = 6
+            # display image-preview
+            imagePreview = true
+            # default behavior when you don't set "hiddenFromHomePage" in front matter
+            defaultHiddenFromHomePage = false
     [params.social]
-        GitHub = "https://github.com/jo3y49/"
-        Linkedin = "https://linkedin.com/in/joseph-may-1586a0221/"
+        GitHub = "jo3y49/"
+        Linkedin = "joseph-may-1586a0221/"
         Itchio = "https://itch.io/profile/jo3y49"
     [params.page.toc]
-        enable = false
+        enable = true
     [params.page.comment]
         enable = true
 

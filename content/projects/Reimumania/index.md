@@ -1,5 +1,7 @@
 +++
 title = "Reimumania"
+weight = 2
+featuredimage = "Reimumania.png"
 +++
 
 <details>
