@@ -1,7 +1,7 @@
 +++
 title = "Reimumania"
 weight = 2
-featuredimage = "Reimumania.png"
+featuredimagepreview = "Reimumania.png"
 +++
 
 <details>

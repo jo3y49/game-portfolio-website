@@ -1,7 +1,10 @@
 +++
 title = "The Quest For Power"
 weight = 1
-featuredimage = "Quest For Power.png"
+featuredimagepreview = "Quest For Power.png"
+cardsummary1 = "2.5D RPG Made in Unity C#"
+cardsummary2 = "Lead Programmer"
+cardsummary3 = ""
 +++
 
 <details>

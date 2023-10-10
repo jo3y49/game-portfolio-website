@@ -50,7 +50,7 @@ canonifyURLs = true
             # URL of the LOGO
             logo = ""
             # title name
-            name = "Joey's Portfolio"
+            name = "Joseph May"
             # you can add extra information before the name (HTML format is supported), such as icons
             pre = ""
             # you can add extra information after the name (HTML format is supported), such as icons
@@ -122,13 +122,15 @@ canonifyURLs = true
             # title shown in home page (HTML format is supported)
             title = "Joey's Portfolio"
             # subtitle shown in home page
-            subtitle = "My Portfolio"
+            subtitle = "Game Programmer"
             # whether to use typeit animation for subtitle
             typeit = false
             # whether to show social links
             social = true
             # disclaimer (HTML format is supported)
             disclaimer = ""
+            # Header above the projects
+            contentHeader = "Projects"
             # Home page posts
         [params.home.posts]
             enable = true
