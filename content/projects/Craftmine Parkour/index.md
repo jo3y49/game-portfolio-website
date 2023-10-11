@@ -1,6 +1,7 @@
 +++
 title = "CraftMine Parkour"
 weight = 3
+featuredimagepreview = "CraftMine Parkour.png"
 +++
 
 <details>

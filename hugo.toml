@@ -17,30 +17,6 @@ canonifyURLs = true
         enable = true
         # service-worker version
         version = "1.0.2"
-    [params.search]
-        enable = true
-        # type of search engine ("lunr", "algolia")
-        type = "lunr"
-        # max index length of the chunked content
-        contentLength = 4000
-        # placeholder of the search bar
-        placeholder = ""
-        # FeelIt NEW | 0.2.1
-        # max number of results length
-        maxResultLength = 10
-        # FeelIt NEW | 0.2.3
-        # snippet length of the result
-        snippetLength = 30
-        # FeelIt NEW | 0.2.1
-        # HTML tag name of the highlight part in results
-        highlightTag = "em"
-        # FeelIt NEW | 0.2.4
-        # whether to use the absolute URL based on the baseURL in search index
-        absoluteURL = false
-        [params.search.algolia]
-            index = ""
-            appID = ""
-            searchKey = ""
     [params.header]
         # desktop header mode ("fixed", "normal", "auto")
         desktopMode = "fixed"
@@ -63,7 +39,7 @@ canonifyURLs = true
         # special amount of posts in each section page
         paginate = 20
         # date format (month and day)
-        dateFormat = "01-02"
+        #dateFormat = "01-02"
         # amount of RSS pages
         rss = 10
     
@@ -71,44 +47,9 @@ canonifyURLs = true
         # special amount of posts in each list page
         paginate = 20
         # date format (month and day)
-        dateFormat = "01-02"
+        #dateFormat = "01-02"
         # amount of RSS pages
         rss = 10
-
-    [params.about]
-        # whether to enable profile on about page
-        # depends on .Site.Params.home.profile.enable
-        enable = true
-        # whether to enable param layout
-        param = true
-        # title for param layout
-        paramTitle = "Personal Information"
-        # general description of your site
-        # can be write with markdown style
-        description = "[FeelIt](https://github.com/khusika/FeelIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by [Khusika](https://khusika.dev). It is based on the original [LoveIt Theme](https://github.com/dillonzq/LoveIt), [LeaveIt Theme](https://github.com/liuzc/LeaveIt), and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt)."
-        # description of your status
-        [[params.about.status]]
-        faIcon = "fa-solid fa-building"
-        title = "Company"
-        desc = "FeelIt"
-        [[params.about.status]]
-        faIcon = "fa-solid fa-briefcase fa-fw"
-        title = "Occupation"
-        desc = "Freelancer"
-        [[params.about.status]]
-        title = "Location"
-        faIcon = "fa-solid fa-map-marker-alt"
-        desc = "Earth"
-        # description of your parameter
-        [[params.about.parameter]]
-        language = "UI/UX"
-        level = "80"
-        [[params.about.parameter]]
-        language = "HTML"
-        level = "70"
-        [[params.about.parameter]]
-        language = "Go"
-        level = "60"
 
     [params.home]
         rss = 10
@@ -143,38 +84,38 @@ canonifyURLs = true
     [params.social]
         GitHub = "jo3y49/"
         Linkedin = "joseph-may-1586a0221/"
-        Itchio = "https://itch.io/profile/jo3y49"
+        Itch = "jo3y49/"
     [params.page.toc]
         enable = true
     [params.page.comment]
         enable = true
 
 [menu]
+  #[[menu.main]]
+  #  identifier = "projects"
+  #  # you can add extra information before the name (HTML format is supported), such as icons
+  #  pre = ""
+  #  # you can add extra information after the name (HTML format is supported), such as icons
+  #  post = ""
+  # name = "Projects"
+  #  url = "/projects/"
+  #  # title will be shown when you hover on this menu link
+  #  title = ""
+  #  weight = 1
   [[menu.main]]
-    identifier = "projects"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Projects"
-    url = "/projects/"
-    # title will be shown when you hover on this menu link
-    title = ""
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
+    identifier = "resume"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Resume"
+    url = "/resume/"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "About Me"
+    url = "/about/"
     title = ""
     weight = 3
 

@@ -44,11 +44,11 @@
 
   .links {
     font-size: 2rem;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
 
     a * {
       vertical-align: text-bottom;
-      margin: 0 .125rem .25rem;
+      margin: 0 .5rem .25rem;
     }
 
     img {
@@ -71,10 +71,15 @@
   }
 
   .home-contentheader {
-    font-size: 1.7rem;
+    font-size: 2rem;
     font-weight: 500;
     margin: 0;
-    padding: 1rem 0 3rem 0;
+    padding: 1.5rem 0 2rem 0;
+  }
+
+  .home-contentdivider {
+    border-top: .15rem solid;
+    margin: 0 0 2rem;
   }
 }
 
