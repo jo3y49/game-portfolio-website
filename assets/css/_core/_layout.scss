@@ -1,0 +1,17 @@
+/** Layout **/
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  
+  min-height: 100vh;
+}
+
+.container {
+  width: 75%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 5%;
+  margin: 0 auto;  /* This will horizontally center the container if it's width is less than 100% of its parent */
+}
+

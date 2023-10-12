@@ -87,6 +87,8 @@ height="167"
 
 ### Source Code:
 
-View the GitHub repository [Here](https://github.com/Game-Jam-Dev/Quest-For-Power/)
+[Click here to view the GitHub repository](https://github.com/Game-Jam-Dev/Quest-For-Power/)
+
+---
 
 [Back To Top](#)

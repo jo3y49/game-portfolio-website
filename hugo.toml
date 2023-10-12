@@ -86,9 +86,11 @@ canonifyURLs = true
         Linkedin = "joseph-may-1586a0221/"
         Itch = "jo3y49/"
     [params.page.toc]
-        enable = true
+        enable = false
     [params.page.comment]
-        enable = true
+        enable = false
+    [params.about]
+        enable = false
 
 [menu]
   #[[menu.main]]

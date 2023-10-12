@@ -43,7 +43,7 @@
   }
 
   .links {
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding: 1.5rem 0;
 
     a * {
@@ -74,12 +74,12 @@
     font-size: 2rem;
     font-weight: 500;
     margin: 0;
-    padding: 1.5rem 0 2rem 0;
+    padding: 1rem 0 1.5rem 0;
   }
 
   .home-contentdivider {
     border-top: .15rem solid;
-    margin: 0 0 2rem;
+    margin: 0 0 1.3rem;
   }
 }
 
@@ -104,19 +104,19 @@
     padding-top: 1rem;
   }
 
-
   .summary {
     background-color: $global-background-card-color;
     margin-bottom: 1rem;
     padding-bottom: 1rem;
     @include border-radius(.5rem);
     color: $global-font-color;
-    width: 45%;
+    width: 48%;
     @include transition(transform 0.4s ease);
     @include box-shadow(0 2px 4px -1px rgba(0, 0, 0, 0.2));
+    max-height: 3rem;
 
     &[data-image=hide] {
-      min-height: 13rem;
+      min-height: 6rem;
     }
 
     &:hover {
