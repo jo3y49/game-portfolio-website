@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Joseph May</title>
+    <link>https://jo3y49.github.io/projects/</link>
+    <description>Recent content in Projects on Joseph May</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jo3y49.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Quest For Power</title>
+      <link>https://jo3y49.github.io/projects/quest-for-power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jo3y49.github.io/projects/quest-for-power/</guid>
+      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Game Link &amp;amp; Source Code Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control, code repository, and project management. VSCode: Code editor for development. Role &amp;amp; Contributions Served as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer.</description>
+    </item>
+    
+    <item>
+      <title>Reimumania</title>
+      <link>https://jo3y49.github.io/projects/reimumania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jo3y49.github.io/projects/reimumania/</guid>
+      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Game Link &amp;amp; Source Code Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control and code repository. Notion: Project management. VSCode: Code editor for development. Role &amp;amp; Contributions Worked alongside a composer/artist in a 2 person team as the programmer, game designer, and project manager.</description>
+    </item>
+    
+    <item>
+      <title>CraftMine Parkour</title>
+      <link>https://jo3y49.github.io/projects/craftmine-parkour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jo3y49.github.io/projects/craftmine-parkour/</guid>
+      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Source Code Technologies &amp;amp; Tools Java: Programming language for game development. GitHub: Version control and code repository. VSCode: Code editor for development. Blender: 3D models and UV maps. Role &amp;amp; Contributions Worked in a team of 2 with another classmate. Primarily focused on the networking, ai behavior, and implementation of 3D models and textures.</description>
+    </item>
+    
+  </channel>
+</rss>
