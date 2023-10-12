@@ -112,14 +112,14 @@ canonifyURLs = true
     url = "/resume/"
     title = ""
     weight = 2
-  [[menu.main]]
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About Me"
-    url = "/about/"
-    title = ""
-    weight = 3
+  #[[menu.main]]
+  #  identifier = "about"
+  #  pre = ""
+  #  post = ""
+  #  name = "About Me"
+  #  url = "/about/"
+  #  title = ""
+  #  weight = 3
 
 # Markup related configuration in Hugo
 [markup]
