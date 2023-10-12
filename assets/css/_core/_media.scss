@@ -24,6 +24,7 @@
   .home[data-home=posts] {
     .summary{
       min-height: 20rem;
+      min-width: 22.5rem;
     }
   }
 }
@@ -31,7 +32,7 @@
 @media only screen and (max-width: 1920px) {
   .home[data-home=posts] {
     .summary{
-      min-height: 19rem;
+      // min-height: 19rem;
     }
   }
 }
@@ -61,17 +62,11 @@
     .categories-card {
       .card-item {
         width: 85%;
-        min-height: 10rem;
+        // min-height: 10rem;
         .card-item-wrapper {
           padding-bottom: 1rem;
         }
       }
-    }
-  }
-
-  .home[data-home=posts] {
-    .summary{
-      min-height: 18rem;
     }
   }
 
@@ -84,7 +79,6 @@
   .home[data-home=posts] {
     .summary{
       width: 100%;
-      min-height: 0;
     }
   }
 
@@ -144,6 +138,10 @@
 
   .page, .single {
     width: 100%;
+
+    // a {
+    //   color: $single-link-color !important;
+    // }
 
     [data-header-mobile] & {
       padding-top: $header-height;

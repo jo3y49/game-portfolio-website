@@ -71,7 +71,7 @@ canonifyURLs = true
             # disclaimer (HTML format is supported)
             disclaimer = ""
             # Header above the projects
-            contentHeader = "Projects"
+            contentHeader = "My Games"
             # Home page posts
         [params.home.posts]
             enable = true
@@ -93,17 +93,17 @@ canonifyURLs = true
         enable = false
 
 [menu]
-  #[[menu.main]]
-  #  identifier = "projects"
-  #  # you can add extra information before the name (HTML format is supported), such as icons
-  #  pre = ""
-  #  # you can add extra information after the name (HTML format is supported), such as icons
-  #  post = ""
-  # name = "Projects"
-  #  url = "/projects/"
-  #  # title will be shown when you hover on this menu link
-  #  title = ""
-  #  weight = 1
+  [[menu.main]]
+    identifier = "games"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+   name = "Games"
+    url = "/#game-header"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
   [[menu.main]]
     identifier = "resume"
     pre = ""

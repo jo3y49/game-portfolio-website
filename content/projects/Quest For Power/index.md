@@ -2,16 +2,15 @@
 title = "The Quest For Power"
 weight = 1
 featuredimagepreview = "Quest For Power.png"
-cardsummary1 = "2.5D RPG Made in Unity C#"
+cardsummary = "2.5D RPG Made in Unity C#"
 cardsummary2 = "Lead Programmer"
-cardsummary3 = ""
 +++
 
 <details>
 <summary>Jump to Section</summary>
 
 - [Technologies & Tools](#technologies--tools)
-- [Role & Contributions](#role-contributions)
+- [Role & Contributions](#role--contributions)
 - [Implemented Gameplay Features](#implemented-gameplay-features)
 - [Game Description & Videos](#game-description)
 - [Game Link & Source Code](#game-link)
@@ -90,5 +89,3 @@ height="167"
 [Click here to view the GitHub repository](https://github.com/Game-Jam-Dev/Quest-For-Power/)
 
 ---
-
-[Back To Top](#)

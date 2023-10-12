@@ -21,7 +21,6 @@
   }
 
   article {
-
     a:where(.external-link)::after {
       padding-left: 0.5em;
       font-size: 0.75em;
@@ -47,7 +46,6 @@
   }
 
   .post {
-    
     .post-title {
       margin-bottom: 0.75em;
     }
@@ -245,7 +243,7 @@
 
           &:hover,
           &:focus {
-            // color: $link-color;
+            // color: $global-link-color;
           }
 
           @media only screen and (max-width: 768px) {

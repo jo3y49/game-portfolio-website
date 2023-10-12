@@ -46,15 +46,15 @@
 
     {{- /* Summary content */ -}}
     <a class="content" href="{{ .RelPermalink }}">
-        {{- with .Params.cardSummary1 -}}
+        {{- with .Params.cardSummary -}}
             <div>{{ . | safeHTML }}</div>
         {{- end -}}
         {{- with .Params.cardSummary2 -}}
             <div>{{ . | safeHTML }}</div>
         {{- end -}}
-        {{- with .Params.cardSummary3 -}}
+        <!-- {{- with .Params.cardSummary3 -}}
             <div>{{ . | safeHTML }}</div>
-        {{- end -}}
+        {{- end -}} -->
     </a>
 
     {{- /* Footer */ -}}

@@ -2,13 +2,15 @@
 title = "CraftMine Parkour"
 weight = 3
 featuredimagepreview = "CraftMine Parkour.png"
+cardsummary = "3D Platformer Made in Java"
+cardsummary2 = "Programmer"
 +++
 
 <details>
 <summary>Jump to Section</summary>
 
 - [Technologies & Tools](#technologies--tools)
-- [Role & Contributions](#role-contributions)
+- [Role & Contributions](#role--contributions)
 - [Implemented Gameplay Features](#implemented-gameplay-features)
 - [Game Description & Videos](#game-description)
 - [Source Code](#source-code)
@@ -61,6 +63,6 @@ CraftMine Parkour is a 3D platformer made in my game architecture class. The obj
 
 ### Source Code:
 
-View the GitHub repository [Here](https://github.com/jo3y49/CraftMine-Parkour)
+[Click here to view the GitHub repository](https://github.com/jo3y49/CraftMine-Parkour)
 
-[Back To Top](#)
+---

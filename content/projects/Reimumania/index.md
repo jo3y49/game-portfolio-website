@@ -2,13 +2,15 @@
 title = "Reimumania"
 weight = 2
 featuredimagepreview = "Reimumania.png"
+cardsummary = "2D Twin-stick Shooter Made in Unity C#"
+cardsummary2 = "Lead Programmer, Project Manager"
 +++
 
 <details>
 <summary>Jump to Section</summary>
 
 - [Technologies & Tools](#technologies--tools)
-- [Role & Contributions](#role-contributions)
+- [Role & Contributions](#role--contributions)
 - [Implemented Gameplay Features](#implemented-gameplay-features)
 - [Game Description & Videos](#game-description)
 - [Game Link & Source Code](#game-link)
@@ -79,6 +81,6 @@ height="167"
 
 ### Source Code:
 
-View the GitHub repository [Here](https://github.com/jo3y49/Reimumania/)
+[Click here to view the GitHub repository](https://github.com/jo3y49/Reimumania/)
 
-[Back To Top](#)
+---
