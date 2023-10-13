@@ -112,7 +112,7 @@
     color: $global-font-color;
     width: 48%;
     @include transition(transform 0.4s ease);
-    @include box-shadow(0 2px 4px -1px rgba(0, 0, 0, 0.2));
+    @include box-shadow(0 2px .5rem -1px rgba(0, 0, 0, 0.693));
     max-height: 3rem;
 
     &[data-image=hide] {
@@ -185,14 +185,14 @@
     .content {
       @include box(vertical);
       -webkit-line-clamp: 3;
-      margin: 0.5rem 0 0 0;
+      margin: 0.3rem 0 0 0;
       overflow: hidden;
       text-overflow: ellipsis;
       @include overflow-wrap(break-word);
       color: $global-font-secondary-color;
       font-size: large;
       text-align: center;
-      line-height: 1.9rem;
+      line-height: 1.6rem;
 
       [theme=dark] & {
         color: $global-font-secondary-color-dark;
@@ -227,6 +227,12 @@
           color: $global-font-secondary-color-dark;
         }
       }
+    }
+
+    .content-sub {
+      margin-top: .4rem;
+      font-size: medium;
+      font-style: italic;
     }
 
     .post-footer {

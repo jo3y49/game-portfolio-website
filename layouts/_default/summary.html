@@ -52,9 +52,9 @@
         {{- with .Params.cardSummary2 -}}
             <div>{{ . | safeHTML }}</div>
         {{- end -}}
-        <!-- {{- with .Params.cardSummary3 -}}
-            <div>{{ . | safeHTML }}</div>
-        {{- end -}} -->
+        {{- with .Params.cardSummary3 -}}
+            <div class="content-sub">{{ . | safeHTML }}</div>
+        {{- end -}}
     </a>
 
     {{- /* Footer */ -}}

@@ -94,16 +94,27 @@ canonifyURLs = true
 
 [menu]
   [[menu.main]]
+    indentifier = "home"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Home"
+    url = "/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
     identifier = "games"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-   name = "Games"
+    name = "Games"
     url = "/#game-header"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "resume"
     pre = ""
@@ -111,7 +122,7 @@ canonifyURLs = true
     name = "Resume"
     url = "/resume/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "contact"
     pre = ""
@@ -119,7 +130,7 @@ canonifyURLs = true
     name = "Contact"
     url = "/contact/"
     title = ""
-    weight = 3
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]
