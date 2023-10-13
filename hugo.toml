@@ -7,14 +7,14 @@ canonifyURLs = true
 
 [params]
     version = "1.0.X"
-    description = "Joseph's Portfolio"
+    description = "Game Programmer Portfolio"
     keywords = ["Portfolio"]
     defaultTheme = "dark"
     author = "Joseph May"
     #info = "Game Developer"
     [params.pwa]
         # whether to enable PWA support
-        enable = true
+        enable = false
         # service-worker version
         version = "1.0.2"
     [params.header]
