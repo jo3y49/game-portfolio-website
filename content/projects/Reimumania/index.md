@@ -2,7 +2,7 @@
 title = "Reimumania"
 weight = 2
 featuredimagepreview = "Reimumania.png"
-cardsummary = "2D Twin-stick Shooter Made in Unity C#"
+cardsummary = "2D Twin-Stick Shooter Made in Unity C#"
 cardsummary2 = "Lead Programmer, Project Manager"
 +++
 

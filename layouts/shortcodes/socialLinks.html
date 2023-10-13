@@ -1,0 +1,18 @@
+{{ $icons := .Page.Params.icons }}
+{{ printf "Icons: %v" $icons }}
+{{ with $icons }}
+    {{ range . }}
+        {{ with index $.Site.Data.social . }}
+            <a href="{{ .Prefix }}" title="{{ .Title }}" target="_blank">
+                <i class="{{ .Icon.Class }}"></i>
+            </a>
+        {{ end }}
+    {{ end }}
+{{ else }}
+    {{/* Default behavior if no icons specified */}}
+    {{ range sort $.Site.Data.social "Weight" }}
+        <a href="{{ .Prefix }}" title="{{ .Title }}" target="_blank">
+            <i class="{{ .Icon.Class }}"></i>
+        </a>
+    {{ end }}
+{{ end }}
