@@ -2,7 +2,7 @@
 title = "The Quest For Power"
 weight = 1
 featuredimagepreview = "Quest For Power.png"
-cardsummary = "2.5D RPG Made in Unity C#"
+cardsummary = "2.5D Turn-Based RPG Made in Unity C#"
 cardsummary2 = "Lead Programmer"
 cardsummary3 = "Click for more info -->"
 +++

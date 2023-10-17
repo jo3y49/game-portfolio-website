@@ -23,7 +23,7 @@
 
   .home[data-home=posts] {
     .summary{
-      min-height: 20rem;
+      min-height: 22rem;
       min-width: 22.5rem;
     }
   }
@@ -32,7 +32,7 @@
 @media only screen and (max-width: 1920px) {
   .home[data-home=posts] {
     .summary{
-      // min-height: 19rem;
+      min-height: 20rem;
     }
   }
 }
