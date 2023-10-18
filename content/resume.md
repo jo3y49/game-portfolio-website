@@ -2,4 +2,4 @@
 title = "Resume"
 +++
 
-Will add when I'm done making it
+<embed src="/pdf/Joseph_May_Resume.pdf" width=800px height=1100px/>
