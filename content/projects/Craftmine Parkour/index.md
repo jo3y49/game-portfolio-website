@@ -1,6 +1,6 @@
 +++
 title = "CraftMine Parkour"
-weight = 3
+weight = 2
 featuredimagepreview = "CraftMine Parkour.png"
 cardsummary = "3D Platformer Made in Java"
 cardsummary2 = "Programmer"

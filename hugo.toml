@@ -61,7 +61,7 @@ canonifyURLs = true
             # URL of avatar shown in home page
             #avatarURL = "/images/avatar.png"
             # title shown in home page (HTML format is supported)
-            title = "Joey's Portfolio"
+            title = "Joseph May"
             # subtitle shown in home page
             subtitle = "Gameplay Programmer"
             # whether to use typeit animation for subtitle

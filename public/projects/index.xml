@@ -16,21 +16,21 @@
     </item>
     
     <item>
-      <title>Reimumania</title>
-      <link>https://jo3y49.github.io/projects/reimumania/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jo3y49.github.io/projects/reimumania/</guid>
-      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Game Link &amp;amp; Source Code Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control and code repository. Notion: Project management. VSCode: Code editor for development. Role &amp;amp; Contributions Worked alongside a composer/artist in a 2 person team as the programmer, game designer, and project manager.</description>
-    </item>
-    
-    <item>
       <title>CraftMine Parkour</title>
       <link>https://jo3y49.github.io/projects/craftmine-parkour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jo3y49.github.io/projects/craftmine-parkour/</guid>
       <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Source Code Technologies &amp;amp; Tools Java: Programming language for game development. GitHub: Version control and code repository. VSCode: Code editor for development. Blender: 3D models and UV maps. Role &amp;amp; Contributions Worked in a team of 2 with another classmate. Primarily focused on the networking, ai behavior, and implementation of 3D models and textures.</description>
+    </item>
+    
+    <item>
+      <title>Reimumania</title>
+      <link>https://jo3y49.github.io/projects/reimumania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jo3y49.github.io/projects/reimumania/</guid>
+      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Game Link &amp;amp; Source Code Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control and code repository. Notion: Project management. VSCode: Code editor for development. Role &amp;amp; Contributions Worked alongside a composer/artist in a 2 person team as the programmer, game designer, and project manager.</description>
     </item>
     
   </channel>
