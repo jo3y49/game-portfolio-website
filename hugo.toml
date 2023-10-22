@@ -65,7 +65,7 @@ canonifyURLs = true
             # subtitle shown in home page
             subtitle = "Gameplay Programmer"
             # a bio section
-            bio = "Welcome to my portfolio!"
+            #bio = "Welcome to my portfolio! I am a gameplay programmer with 3 years of experience developing software and games. "
             # whether to use typeit animation for subtitle
             typeit = false
             # whether to show social links

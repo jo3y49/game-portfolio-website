@@ -35,11 +35,12 @@ cardSummary6 = ""
 - Managing game files using a GitHub organization to ensure smooth file integrations.
 - Implementing branch strategies and organized asset folders to streamline collaborative work and prevent merge conflicts.
 
-### Gameplay Features
+### Implemented Gameplay Features
 
-- Building a robust combat system that can be scaled to allow an infinite number of players, enemies, and attacks.
-- Attacks are chained together to make combos.
-- Including a save system that tracks player's data, progress, and whether an enemy has previously been defeated or not.
+- A robust combat system that can be scaled to allow an infinite number of players, enemies, and attacks.
+- Attacks can be chained together to make combos.
+- Includes a save system that tracks player's data, progress, and whether an enemy has previously been defeated or not.
+- The player can absorb the elements of their enemies to use in their future battles.
 
 ### Game Description
 
