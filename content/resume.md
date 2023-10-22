@@ -2,4 +2,6 @@
 title = "Resume"
 +++
 
-<embed src="/pdf/Joseph_May_Resume.pdf" width=800px height=1100px/>
+<div style="text-align: center;">
+    <embed src="/pdf/Joseph_May_Resume.pdf" width=800px height=1100px/>
+</div>

@@ -2,9 +2,10 @@
 title = "CraftMine Parkour"
 weight = 2
 featuredimagepreview = "CraftMine Parkour.png"
-cardsummary = "3D Platformer Made in Java"
-cardsummary2 = "Programmer"
-cardsummary3 = "Click for more info -->"
+carddescription = "3D Platformer Made in Java"
+cardsummary = "Worked alongside another programmer and collaborated through a GitHub repository using pull requests and code reviews"
+cardsummary2 = "Implemented networking functionality to connect to other players on the same local network"
+cardsummary3 = "Developed enemies that walk back and forth on a set path, but then chases the player if they get too close"
 +++
 
 <details>

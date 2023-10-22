@@ -2,9 +2,13 @@
 title = "The Quest For Power"
 weight = 1
 featuredimagepreview = "Quest For Power.png"
-cardsummary = "2.5D Turn-Based RPG Made in Unity C#"
-cardsummary2 = "Lead Programmer"
-cardsummary3 = "Click for more info -->"
+carddescription = "2.5D Turn-Based RPG Made in Unity C#"
+cardsummary = "Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer"
+cardsummary2 = "Building a modular and scalable system for turn-based combat with features such as combo-chaining and elemental reactions"
+cardsummary3 = "Features rpg elements where the player can absorb the elements of their enemies to use in future fights and defeat them for xp"
+cardSummary4 = ""
+cardSummary5 = ""
+cardSummary6 = ""
 +++
 
 <details>
@@ -27,15 +31,15 @@ cardsummary3 = "Click for more info -->"
 
 ### Role & Contributions
 
-- Served as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer.
-- Managed game files using a GitHub organization and ensured smooth file integrations.
-- Implemented branch strategies and organized asset folders to streamline collaborative work and prevent merge conflicts.
+- Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer.
+- Managing game files using a GitHub organization to ensure smooth file integrations.
+- Implementing branch strategies and organized asset folders to streamline collaborative work and prevent merge conflicts.
 
-### Implemented Gameplay Features
+### Gameplay Features
 
-- Built a robust combat system that can be scaled to allow an infinite number of players, enemies, and attacks.
+- Building a robust combat system that can be scaled to allow an infinite number of players, enemies, and attacks.
 - Attacks are chained together to make combos.
-- Includes a save system that tracks player's data, progress, and whether an enemy has previously been defeated or not.
+- Including a save system that tracks player's data, progress, and whether an enemy has previously been defeated or not.
 
 ### Game Description
 

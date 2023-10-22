@@ -42,6 +42,11 @@
     padding: .5rem 0;
   }
 
+  .home-bio {
+    font-size: 1rem;
+    margin-top: 0 1rem;
+  }
+
   .links {
     font-size: 1.5rem;
     padding: 1.5rem 0;
@@ -105,12 +110,12 @@
   }
 
   .summary {
+    display: flex;
     background-color: $global-background-card-color;
-    margin-bottom: 1rem;
-    padding-bottom: 1rem;
+    margin-bottom: 3rem;
     @include border-radius(.5rem);
     color: $global-font-color;
-    width: 48%;
+    width: 100%;
     @include transition(transform 0.4s ease);
     @include box-shadow(0 2px .5rem -1px rgba(0, 0, 0, 0.693));
     max-height: 3rem;
@@ -129,14 +134,12 @@
     }
 
     .featured-image-preview {
-      width: 100%;
-      padding: 40% 0 0;
+      padding: 35vh 11.5vw 0;
       position: relative;
-      margin: 0 auto;
 
       img {
         position: absolute;
-        width: 100%;
+        width: 23vw;
         height: 100%;
         left: 0;
         top: 0;
@@ -149,49 +152,47 @@
       }
     }
 
+    .card-description {
+      width: 32vw;
+      margin: 0 .5vw;
+    }
+
     .single-title {
       font-weight: 500;
       text-align: center;
-      font-size: 2.2rem;
-      line-height: 120%;
-      margin: 0 0;
-      padding-top: 1rem;
-    }
-
-    .post-meta {
-      font-size: .875rem;
-      margin: 0 1rem .5rem;
-      color: $global-font-secondary-color;
-
-      span {
-        display: inline-block;
-      }
-
-      [theme=dark] & {
-        color: $global-font-secondary-color-dark;
-      }
-
-      @include link(false, true);
-
-      .author {
-        font-size: 1.05rem;
-      }
+      font-size: 2.5rem;
+      line-height: 0;
+      margin-bottom: 2.5rem;
     }
 
     p {
       margin: .5rem 0;
     }
 
+    .content-description {
+      font-weight: 300;
+      font-size: larger;
+      text-align: center;
+      margin-bottom: .5rem;
+      line-height: .5rem;
+    }
+
+    .content-header {
+      font-weight: 350;
+      text-align: center;
+      margin-bottom: .75rem;
+    }
+
     .content {
       @include box(vertical);
-      -webkit-line-clamp: 3;
+      -webkit-line-clamp: 6;
       margin: 0.3rem 0 0 0;
       overflow: hidden;
       text-overflow: ellipsis;
       @include overflow-wrap(break-word);
       color: $global-font-secondary-color;
-      font-size: large;
-      text-align: center;
+      // font-size: large;
+      text-align: left;
       line-height: 1.6rem;
 
       [theme=dark] & {
@@ -214,10 +215,6 @@
         }
       }
 
-      h2 {
-        font-size: 1.125rem;
-      }
-
       @include link(false, true);
 
       b, strong {
@@ -230,9 +227,10 @@
     }
 
     .content-sub {
-      margin-top: .4rem;
-      font-size: medium;
+      margin-top: .5rem;
+      // font-size: medium;
       font-style: italic;
+      text-align: center;
     }
 
     .post-footer {

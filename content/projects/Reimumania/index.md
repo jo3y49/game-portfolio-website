@@ -2,9 +2,11 @@
 title = "Reimumania"
 weight = 3
 featuredimagepreview = "Reimumania.png"
-cardsummary = "2D Twin-Stick Shooter Made in Unity C#"
-cardsummary2 = "Programmer | Project Manager"
-cardsummary3 = "Click for more info -->"
+carddescription = "2D Twin-Stick Shooter Made in Unity C#"
+cardsummary = "Served as the programmer and project manager in a team of 2"
+cardsummary2 = "Created a multi-phase boss fight where the player must get deal a certain of damage to progress through the phases"
+cardsummary3 = "Developed an npc ally that switches between an attack, defend, and assist state to aid the player in combat"
+cardsummary4 = "Added a currency and shop system to buy upgrades and lives"
 +++
 
 <details>
@@ -34,7 +36,7 @@ cardsummary3 = "Click for more info -->"
 ### Implemented Gameplay Features
 
 - Features a shop and currency to allow the player to purchase upgrades for their character
-- Has an NPC ally that can toggle between a defend, attack, and assist state to aid the player. Either by reflecting bullets, seeking and taking out distant enemies, or firing alongside the player.
+- Developed an NPC ally that can toggle between a defend, attack, and assist state to aid the player. Either by reflecting bullets, seeking and taking out distant enemies, or firing alongside the player.
 - Saving and loading to store character details like thier lives, total kills, and play time.
 - A boss fight with multiple phases. Switches to the next phase once a certain amount of damage has been dealt.
 
