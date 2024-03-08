@@ -4,7 +4,7 @@ title = "Contact"
 
 #### Reach out to me here!
 
-**Email:** joeygamedeveloper@gmail.com
+**Email:** josephvmay49@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/joseph-may-1586a0221/
 

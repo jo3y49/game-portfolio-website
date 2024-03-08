@@ -2,8 +2,8 @@
 title = "The Quest For Power"
 weight = 1
 featuredimagepreview = "Quest For Power.png"
-carddescription = "2.5D Turn-Based RPG Made in Unity C#"
-cardsummary = "Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer"
+carddescription = "2.5D RPG Made in Unity C#"
+cardsummary = "Serving as the lead programmer for a team of 5"
 cardsummary2 = "Building a modular and scalable system for turn-based combat with features such as combo-chaining and elemental reactions"
 cardsummary3 = "Features rpg elements where the player can absorb the elements of their enemies to use in future fights and defeat them for xp"
 cardSummary4 = ""
@@ -11,23 +11,12 @@ cardSummary5 = ""
 cardSummary6 = ""
 +++
 
-<details>
-<summary>Jump to Section</summary>
-
-- [Technologies & Tools](#technologies--tools)
-- [Role & Contributions](#role--contributions)
-- [Implemented Gameplay Features](#implemented-gameplay-features)
-- [Game Description & Videos](#game-description)
-- [Game Link & Source Code](#game-link)
-
-</details>
-
 ### Technologies & Tools
 
 - **Unity**: Game engine for game rendering and logic.
 - **C#**: Programming language for game development.
-- **GitHub**: Version control, code repository, and project management.
-- **VSCode**: Code editor for development.
+- **GitHub**: Version control, code repository, and project management through GitHub Projects.
+- **VSCode**: Codig IDE of choice.
 
 ### Role & Contributions
 
@@ -37,14 +26,14 @@ cardSummary6 = ""
 
 ### Implemented Gameplay Features
 
-- A robust combat system that can be scaled to allow an infinite number of players, enemies, and attacks.
+- A robust combat system that can be scaled to allow many playable characters and enemies, as well as many different attacks, skills, and items.
 - Attacks can be chained together to make combos.
 - Includes a save system that tracks player's data, progress, and whether an enemy has previously been defeated or not.
 - The player can absorb the elements of their enemies to use in their future battles.
 
 ### Game Description
 
-The Quest For Power is a 2.5D turn-based RPG game. Play as Emperor Arkanos, who must reclaim the empire stolen from him by his traitorous general. Utilize his powerful combos and elemental skills to fight your way back to the throne. Developed for the [RPG Mania Jam V](https://itch.io/jam/rpg-mania-v) on Itch.io and won 1st place.
+The Quest For Power is a 2.5D turn-based RPG game. Play as Emperor Arkanos, who must reclaim the empire stolen from him by his traitorous general. Utilize his powerful combos and elemental skills to fight your way back to the throne. Developed for the [RPG Mania Jam V](https://itch.io/jam/rpg-mania-v) on Itch.io and won 1st place. Also submitted to the [Feedback Quest - RPG Edition](https://itch.io/jam/feedback-quest-rpg) on Itch.io.
 
 ### Gameplay Videos
 

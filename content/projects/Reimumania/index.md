@@ -7,18 +7,8 @@ cardsummary = "Served as the programmer and project manager in a team of 2"
 cardsummary2 = "Created a multi-phase boss fight where the player must get deal a certain of damage to progress through the phases"
 cardsummary3 = "Developed an npc ally that switches between an attack, defend, and assist state to aid the player in combat"
 cardsummary4 = "Added a currency and shop system to buy upgrades and lives"
+draft = true
 +++
-
-<details>
-<summary>Jump to Section</summary>
-
-- [Technologies & Tools](#technologies--tools)
-- [Role & Contributions](#role--contributions)
-- [Implemented Gameplay Features](#implemented-gameplay-features)
-- [Game Description & Videos](#game-description)
-- [Game Link & Source Code](#game-link)
-
-</details>
 
 ### Technologies & Tools
 

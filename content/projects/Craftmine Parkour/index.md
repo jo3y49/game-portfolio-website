@@ -1,23 +1,12 @@
 +++
 title = "CraftMine Parkour"
-weight = 2
+weight = 4
 featuredimagepreview = "CraftMine Parkour.png"
 carddescription = "3D Platformer Made in Java"
 cardsummary = "Worked alongside another programmer and collaborated through a GitHub repository using pull requests and code reviews"
 cardsummary2 = "Implemented networking functionality to connect to other players on the same local network"
 cardsummary3 = "Developed enemies that walk back and forth on a set path, but then chases the player if they get too close"
 +++
-
-<details>
-<summary>Jump to Section</summary>
-
-- [Technologies & Tools](#technologies--tools)
-- [Role & Contributions](#role--contributions)
-- [Implemented Gameplay Features](#implemented-gameplay-features)
-- [Game Description & Videos](#game-description)
-- [Source Code](#source-code)
-
-</details>
 
 ### Technologies & Tools
 

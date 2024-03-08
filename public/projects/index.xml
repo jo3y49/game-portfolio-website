@@ -12,7 +12,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jo3y49.github.io/projects/quest-for-power/</guid>
-      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Game Link &amp;amp; Source Code Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control, code repository, and project management. VSCode: Code editor for development. Role &amp;amp; Contributions Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer.</description>
+      <description>Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control, code repository, and project management. VSCode: Code editor for development. Role &amp;amp; Contributions Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer. Managing game files using a GitHub organization to ensure smooth file integrations. Implementing branch strategies and organized asset folders to streamline collaborative work and prevent merge conflicts.</description>
+    </item>
+    
+    <item>
+      <title>Dessert Thief</title>
+      <link>https://jo3y49.github.io/projects/dessert-thief/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jo3y49.github.io/projects/dessert-thief/</guid>
+      <description>Technologies &amp;amp; Tools GitHub: Version control and code repository. VSCode: Code editor for development. Role &amp;amp; Contributions Implemented Gameplay Features Game Description Game Link: Try my game on Itch.io!
+Dessert Thief by Jo3y49Source Code: Click here to view the GitHub repository</description>
     </item>
     
     <item>
@@ -21,16 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jo3y49.github.io/projects/craftmine-parkour/</guid>
-      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Source Code Technologies &amp;amp; Tools Java: Programming language for game development. GitHub: Version control and code repository. VSCode: Code editor for development. Blender: 3D models and UV maps. Role &amp;amp; Contributions Worked in a team of 2 with another classmate. Primarily focused on the networking, ai behavior, and implementation of 3D models and textures.</description>
-    </item>
-    
-    <item>
-      <title>Reimumania</title>
-      <link>https://jo3y49.github.io/projects/reimumania/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jo3y49.github.io/projects/reimumania/</guid>
-      <description>Jump to SectionTechnologies &amp;amp; Tools Role &amp;amp; Contributions Implemented Gameplay Features Game Description &amp;amp; Videos Game Link &amp;amp; Source Code Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control and code repository. Notion: Project management. VSCode: Code editor for development. Role &amp;amp; Contributions Worked alongside a composer/artist in a 2 person team as the programmer, game designer, and project manager.</description>
+      <description>Technologies &amp;amp; Tools Java: Programming language for game development. GitHub: Version control and code repository. VSCode: Code editor for development. Blender: 3D models and UV maps. Role &amp;amp; Contributions Worked in a team of 2 with another classmate. Primarily focused on the networking, ai behavior, and implementation of 3D models and textures. Assisted with the physics as well. Implemented Gameplay Features Ability to connect with other players on the network. Featured a character selection screen, and the selected character is shown to other players on the network.</description>
     </item>
     
   </channel>
