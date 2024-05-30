@@ -121,14 +121,14 @@ canonifyURLs = true
     # title will be shown when you hover on this menu link
     title = ""
     weight = 2
-  [[menu.main]]
-    identifier = "resume"
-    pre = ""
-    post = ""
-    name = "Resume"
-    url = "/resume/"
-    title = ""
-    weight = 3
+  # [[menu.main]]
+  #  identifier = "resume"
+  #  pre = ""
+  #  post = ""
+  #  name = "Resume"
+  #  url = "/resume/"
+  #  title = ""
+  #  weight = 3
   [[menu.main]]
     identifier = "contact"
     pre = ""

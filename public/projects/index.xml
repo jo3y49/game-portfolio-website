@@ -12,7 +12,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jo3y49.github.io/projects/quest-for-power/</guid>
-      <description>Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control, code repository, and project management. VSCode: Code editor for development. Role &amp;amp; Contributions Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer. Managing game files using a GitHub organization to ensure smooth file integrations. Implementing branch strategies and organized asset folders to streamline collaborative work and prevent merge conflicts.</description>
+      <description>Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control, code repository, and project management through GitHub Projects. VSCode: Codig IDE of choice. Role &amp;amp; Contributions Serving as the lead programmer for a team of 5, including another programmer, an artist, a composer, and a designer. Managing game files using a GitHub organization to ensure smooth file integrations. Implementing branch strategies and organized asset folders to streamline collaborative work and prevent merge conflicts.</description>
+    </item>
+    
+    <item>
+      <title>Ice Cream Defender</title>
+      <link>https://jo3y49.github.io/projects/ice-cream-defender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jo3y49.github.io/projects/ice-cream-defender/</guid>
+      <description>Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control and code repository. Notion: Project management and documentation. VSCode: Code editor for development. Role &amp;amp; Contributions Served as the programmer for a team of 2. Developed the game from scratch, including the game mechanics and the upgrade system. Managed the project using Notion for documents and project management, and version control using GitHub.</description>
     </item>
     
     <item>
@@ -21,8 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jo3y49.github.io/projects/dessert-thief/</guid>
-      <description>Technologies &amp;amp; Tools GitHub: Version control and code repository. VSCode: Code editor for development. Role &amp;amp; Contributions Implemented Gameplay Features Game Description Game Link: Try my game on Itch.io!
-Dessert Thief by Jo3y49Source Code: Click here to view the GitHub repository</description>
+      <description>Technologies &amp;amp; Tools Unity: Game engine for game rendering and logic. C#: Programming language for game development. GitHub: Version control and code repository. Notion: Project management and documentation. VSCode: Code editor for development. Role &amp;amp; Contributions Served as the programmer for a team of 2. Developed the game from scratch, including the game mechanics and the upgrade system. Managed the project using Notion for documents and project management, and version control using GitHub.</description>
     </item>
     
     <item>

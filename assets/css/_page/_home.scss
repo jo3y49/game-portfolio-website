@@ -113,12 +113,14 @@
     display: flex;
     background-color: $global-background-card-color;
     margin-bottom: 3rem;
+    height: auto;
+    overflow: auto;
     @include border-radius(.5rem);
     color: $global-font-color;
     width: 100%;
     @include transition(transform 0.4s ease);
     @include box-shadow(0 2px .5rem -1px rgba(0, 0, 0, 0.693));
-    max-height: 3rem;
+    // max-height: 3rem;
 
     &[data-image=hide] {
       min-height: 6rem;
@@ -154,13 +156,15 @@
 
     .card-description {
       width: 32vw;
+      height: 5;
       margin: 0 .5vw;
+      font-size: 1vw;
     }
 
     .single-title {
       font-weight: 500;
       text-align: center;
-      font-size: 2.5rem;
+      font-size: 2.8vw;
       line-height: 0;
       margin-bottom: 2.5rem;
     }
